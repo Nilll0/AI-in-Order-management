@@ -1,6 +1,3 @@
-Here is a simpler version of the README with clear descriptions and links to each section:
-
----
 
 # Data Analysis Project
 
@@ -31,7 +28,3 @@ This project focuses on supporting business decision-making through data analysi
 - **Languages:** Python, R  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **ML Tools (if applicable):** Scikit-learn  
-
----
-
-Let me know if you'd like any more edits! 🚀
