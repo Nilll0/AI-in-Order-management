@@ -1,6 +1,3 @@
-Here is the README content in English:
-
----
 
 # Data Analysis Project
 
